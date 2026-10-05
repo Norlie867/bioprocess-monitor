@@ -42,4 +42,5 @@ This dashboard summarizes a single fermentation batch across four panels:
 |5       |48.62             |99.08                      |24.7                  |
 
 This table summarizes performance across all five batches run under Mode A's operating limits. Most batches spent the majority of their runtime within the acceptable pH and temperature ranges, resulting in consistent final product concentrations. 
+
 Batch 5 stands out with a notably lower pH-optimal percentage (48.62%), which directly corresponds to its lower final product concentration (24.7 g/L), highlighting the link between maintaining optimal operating conditions and overall process performance.
